@@ -1,6 +1,8 @@
 # CQRS with MediatR in .NET 5.0 - MariaDB
 This repository contains the REST service, built with .NET 5.0 using CQRS(Command Query Responsibility Segregation) design patern & MediatR to illustrate creating REST API to performing CRUD actions.
 
+![Screenshot](https://github.com/mahendraputra21/WebApiCQRS/blob/main/CQRS-Diagram.png)
+
 ## Prerequisites
 
 * Visual Studio 2019
@@ -16,3 +18,5 @@ This repository contains the REST service, built with .NET 5.0 using CQRS(Comman
 * Create databse "cqrs-db" on your maria db database management system 
 * running "update-database" on Package Manager Console
 * Run the project.
+
+![Screenshot](https://github.com/mahendraputra21/WebApiCQRS/blob/main/Swagger-UI.png)
